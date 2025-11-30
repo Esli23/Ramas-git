@@ -1,0 +1,4 @@
+ echo "Proyecto inicial" > archivo.txt
+git add archivo.txt
+git commit -m "Commit inicial"
+ 
